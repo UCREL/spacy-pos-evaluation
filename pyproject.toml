@@ -17,8 +17,7 @@ strict_equality = true
 
 [[tool.mypy.overrides]]
 module = [
-    'datasets.*', 
-    'spacy.vocab'
+    'fr_core_news_sm.*'
 ]
 ignore_missing_imports = true
 
