@@ -1,0 +1,4 @@
+https://github.com/explosion/spacy-models/releases/download/fr_core_news_sm-3.2.0/fr_core_news_sm-3.2.0.tar.gz#egg=fr_core_news_sm
+spacy>=3.2.0,<3.3.0
+datasets==1.18.3
+conllu==4.4.1
